@@ -4,6 +4,7 @@
 #
 .utmp/
 /[Ll]ibrary/
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -33,6 +34,12 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Visual Studio cache directory
+.vs/
+
+# Visual Studio cache directory
+.vscode/
 
 # Gradle cache directory
 .gradle/
