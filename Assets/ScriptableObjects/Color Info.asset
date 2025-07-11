@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc9294d245e044132950d005883f0a99, type: 3}
+  m_Name: Color Info
+  m_EditorClassIdentifier: 
+  colorInfos:
+  - Name: Red
+    Color: {r: 0.92156863, g: 0.26666668, b: 0.3529412, a: 1}
+    Button: {fileID: 21300000, guid: e6404ce3667f546569c1c59a6de9495d, type: 3}
+    Selected: 0
+  - Name: Orange
+    Color: {r: 0.96862745, g: 0.5411765, b: 0.16078432, a: 1}
+    Button: {fileID: 21300000, guid: b0eb9c535328048ca85e8a9f5088e776, type: 3}
+    Selected: 0
+  - Name: Yellow
+    Color: {r: 1, g: 0.75686276, b: 0.29803923, a: 1}
+    Button: {fileID: 21300000, guid: ef4a2477c77fd44f7bc698b115d9b619, type: 3}
+    Selected: 0
+  - Name: Green
+    Color: {r: 0.42745098, g: 0.7647059, b: 0.13333334, a: 1}
+    Button: {fileID: 21300000, guid: b32a6d84afc984b61b05b20c3d44569b, type: 3}
+    Selected: 0
+  - Name: Blue
+    Color: {r: 0.18039216, g: 0.5764706, b: 0.91764706, a: 1}
+    Button: {fileID: 21300000, guid: 3a0c4687d22934cf095617641845b467, type: 3}
+    Selected: 0
+  - Name: Purple
+    Color: {r: 0.5921569, g: 0.45882353, b: 0.98039216, a: 1}
+    Button: {fileID: 21300000, guid: 65490cbb27e9742c3a235389d662ae8e, type: 3}
+    Selected: 0
+  - Name: Pink
+    Color: {r: 0.96862745, g: 0.42745098, b: 0.6156863, a: 1}
+    Button: {fileID: 21300000, guid: 391a60b494538403988593ac66bfadc2, type: 3}
+    Selected: 0
